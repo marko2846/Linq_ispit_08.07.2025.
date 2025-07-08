@@ -5,18 +5,13 @@ namespace Ispit.Model
     public class Podaci
     {
 
-        public List<Banka> ListaBanki { get; set; }
-
-        public Podaci()
+        public List<Banka> ListaBanki { get; set; } = new List<Banka>
         {
-            ListaBanki = new List<Banka>
-            {
                 new Banka { Simbol = "ZABA", Naziv = "Zagrebačka banka" },
                 new Banka { Simbol = "PBZ", Naziv = "Privredna banka Zagreb" },
                 new Banka { Simbol = "OTP", Naziv = "OTP banka" }
-            };
-
         }
+       
 
         public  List<Klijent> ListaKlijenata { get; set; } = new List<Klijent>
         {
