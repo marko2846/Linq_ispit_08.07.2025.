@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Ispit.Konzola-(Ispit)/1.0.0": {
+        "dependencies": {
+          "Ispit.Model": "1.0.0"
+        },
+        "runtime": {
+          "Ispit.Konzola-(Ispit).dll": {}
+        }
+      },
+      "Ispit.Model/1.0.0": {
+        "runtime": {
+          "Ispit.Model.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ispit.Konzola-(Ispit)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ispit.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
