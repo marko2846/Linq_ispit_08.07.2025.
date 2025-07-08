@@ -1,0 +1,11 @@
+C:\Users\mrkvl\Desktop\.NET Framework\Ispit_Linq\bin\Debug\net9.0\Ispit.Model.deps.json
+C:\Users\mrkvl\Desktop\.NET Framework\Ispit_Linq\bin\Debug\net9.0\Ispit.Model.dll
+C:\Users\mrkvl\Desktop\.NET Framework\Ispit_Linq\bin\Debug\net9.0\Ispit.Model.pdb
+C:\Users\mrkvl\Desktop\.NET Framework\Ispit_Linq\obj\Debug\net9.0\Ispit.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkvl\Desktop\.NET Framework\Ispit_Linq\obj\Debug\net9.0\Ispit.Model.AssemblyInfoInputs.cache
+C:\Users\mrkvl\Desktop\.NET Framework\Ispit_Linq\obj\Debug\net9.0\Ispit.Model.AssemblyInfo.cs
+C:\Users\mrkvl\Desktop\.NET Framework\Ispit_Linq\obj\Debug\net9.0\Ispit.Model.csproj.CoreCompileInputs.cache
+C:\Users\mrkvl\Desktop\.NET Framework\Ispit_Linq\obj\Debug\net9.0\Ispit.Model.dll
+C:\Users\mrkvl\Desktop\.NET Framework\Ispit_Linq\obj\Debug\net9.0\refint\Ispit.Model.dll
+C:\Users\mrkvl\Desktop\.NET Framework\Ispit_Linq\obj\Debug\net9.0\Ispit.Model.pdb
+C:\Users\mrkvl\Desktop\.NET Framework\Ispit_Linq\obj\Debug\net9.0\ref\Ispit.Model.dll
